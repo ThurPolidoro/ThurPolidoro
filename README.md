@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Thourtlon Polidoro</h1>
+<h1 align="center">Oi 👋, eu sou Thourtlon Polidoro</h1>
 <h3 align="center">Um desenvolvedor brasileiro apaixonado no que faz</h3>
 
 - 🔭 Estou atualmente trabalhando em **API-CJ**
