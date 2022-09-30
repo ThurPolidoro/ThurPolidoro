@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thurpolidoro&label=Profile%20views&color=0e75b6&style=flat" alt="thurpolidoro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thurpolidoro" alt="thurpolidoro" /></a> </p>
-
 - 🔭 Estou atualmente trabalhando em **API-CJ**
 
 - 🌱 Atualmente estou aprendendo **TDD, DDD, SOLID e C#**
