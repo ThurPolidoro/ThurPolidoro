@@ -5,7 +5,11 @@
 
 - 🔭 Estou atualmente trabalhando em **API-CJ**
 
-- 🌱 Atualmente estou aprendendo **TDD, DDD, SOLID e C#**
+- 🌱 Estou aprendendo aprendendo **TDD, DDD e SOLID#**
+
+- 🚀 Estou explorando o mundo do **C# com .NET**
+
+- 🕵️ Interessando em aprender sobre **Game Design com Unity**
 
 - 💬 Pergunte-me sobre **php e laravel**
 
